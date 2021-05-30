@@ -80,8 +80,8 @@ img {
 }
 
 .masterBox {
-  width: initial;
-  height: inherit;
+  width: auto;
+  height: auto;
   margin: auto;
 }
 
